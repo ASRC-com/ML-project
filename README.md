@@ -51,3 +51,11 @@ Additionally, Partial Dependence Plots (PDPs) and decision tree diagrams clarify
 **Results**
 
 The integration of machine learning with interpretability methods demonstrates the potential of AI to enhance personalized medicine, offering reliable, accurate, and transparent drug recommendations.
+
+**Authors**
+
+Alasakani Sriram  - B.Tech Student in Computer Science Engineering, VIT AP College
+Pakanati Dwijesh  - B.Tech Student in Computer Science Engineering, VIT AP College
+Sai Kiran Kanuri  - B.Tech Student in Computer Science Engineering, VIT AP College 
+Pulakam Tej Kiran - B.Tech Student in Computer Science Engineering, VIT AP College
+Akanksh Inampudi  - B.Tech Student in Computer Science Engineering, VIT AP College
