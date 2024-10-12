@@ -54,8 +54,8 @@ The integration of machine learning with interpretability methods demonstrates t
 
 **Authors**
 
-Alasakani Sriram  - B.Tech Student in Computer Science Engineering, VIT AP College
-Pakanati Dwijesh  - B.Tech Student in Computer Science Engineering, VIT AP College
-Sai Kiran Kanuri  - B.Tech Student in Computer Science Engineering, VIT AP College 
-Pulakam Tej Kiran - B.Tech Student in Computer Science Engineering, VIT AP College
-Akanksh Inampudi  - B.Tech Student in Computer Science Engineering, VIT AP College
+Alasakani Sriram  - B.Tech Student in Computer Science Engineering, VIT AP College. 
+Pakanati Dwijesh  - B.Tech Student in Computer Science Engineering, VIT AP College.
+Sai Kiran Kanuri  - B.Tech Student in Computer Science Engineering, VIT AP College.
+Pulakam Tej Kiran - B.Tech Student in Computer Science Engineering, VIT AP College.
+Akanksh Inampudi  - B.Tech Student in Computer Science Engineering, VIT AP College.
