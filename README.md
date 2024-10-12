@@ -1,4 +1,4 @@
-**Drug Classification Using Decision Tree Classifier**
+***Drug Classification Using Decision Tree Classifier***
 
 This project explores the classification of drugs using a Decision Tree classifier, leveraging patient data such as age, gender, blood pressure, cholesterol levels, and the sodium-to-potassium ratio. The model aims to provide interpretable predictions to enhance personalized medicine.
 
